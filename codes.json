@@ -1,0 +1,46 @@
+{
+  "codes": [
+    {
+      "id": "1",
+      "code": "WELCOME",
+      "reward": "Free Boost",
+      "isActive": true
+    },
+    {
+      "id": "2",
+      "code": "LUCKY2026",
+      "reward": "+50% Luck Boost",
+      "isActive": true
+    },
+    {
+      "id": "3",
+      "code": "ROLLFAST",
+      "reward": "Speed Boost",
+      "isActive": true
+    },
+    {
+      "id": "4",
+      "code": "BOOSTTIME",
+      "reward": "Double Boost Time",
+      "isActive": true
+    },
+    {
+      "id": "5",
+      "code": "GRINDMORE",
+      "reward": "Extra Rolls",
+      "isActive": true
+    },
+    {
+      "id": "6",
+      "code": "OLDREWARD",
+      "reward": "Coins",
+      "isActive": false
+    },
+    {
+      "id": "7",
+      "code": "TESTCODE",
+      "reward": "Test Reward",
+      "isActive": false
+    }
+  ]
+}
