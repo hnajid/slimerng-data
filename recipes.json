@@ -1,0 +1,108 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Golden Path",
+      "resultSlime": "Golden Slime",
+      "resultOdds": "1 in 1000",
+      "zone": "Cave",
+      "unlockRequirement": "Unlock crafting machine",
+      "ingredients": ["Green Slime", "Blue Slime"],
+      "rarity": "Legendary",
+      "stats": "High farming value",
+      "locationHint": "Near cave entrance",
+      "notes": "Best early crafting target."
+    },
+    {
+      "id": "2",
+      "name": "Crystal Fusion",
+      "resultSlime": "Crystal Slime",
+      "resultOdds": "1 in 250",
+      "zone": "Mines",
+      "unlockRequirement": "Early game",
+      "ingredients": ["Blue Slime", "Stone"],
+      "rarity": "Epic",
+      "stats": "Balanced stats",
+      "locationHint": "Mine tunnels",
+      "notes": "Easy mid-tier recipe."
+    },
+    {
+      "id": "3",
+      "name": "Poison Mix",
+      "resultSlime": "Poison Slime",
+      "resultOdds": "1 in 50",
+      "zone": "Swamp",
+      "unlockRequirement": "Level 2",
+      "ingredients": ["Green Slime", "Toxic Essence"],
+      "rarity": "Rare",
+      "stats": "Damage over time",
+      "locationHint": "Swamp biome",
+      "notes": "Good early combat slime."
+    },
+    {
+      "id": "4",
+      "name": "Fire Core",
+      "resultSlime": "Fire Slime",
+      "resultOdds": "1 in 100",
+      "zone": "Volcano",
+      "unlockRequirement": "Level 3",
+      "ingredients": ["Crystal Slime", "Lava Core"],
+      "rarity": "Epic",
+      "stats": "Fast & damage",
+      "locationHint": "Volcano area",
+      "notes": "Strong mid-game slime."
+    },
+    {
+      "id": "5",
+      "name": "Lava Forge",
+      "resultSlime": "Lava Slime",
+      "resultOdds": "1 in 2000",
+      "zone": "Volcano",
+      "unlockRequirement": "Mid game",
+      "ingredients": ["Fire Slime", "Golden Slime"],
+      "rarity": "Legendary",
+      "stats": "High damage",
+      "locationHint": "Deep volcano",
+      "notes": "High damage output."
+    },
+    {
+      "id": "6",
+      "name": "Shadow Core",
+      "resultSlime": "Shadow Slime",
+      "resultOdds": "1 in 10000",
+      "zone": "Jungle",
+      "unlockRequirement": "Mid game",
+      "ingredients": ["Fire Slime", "Golden Slime"],
+      "rarity": "Mythic",
+      "stats": "Extreme speed",
+      "locationHint": "Hidden jungle area",
+      "notes": "Top mid-game slime."
+    },
+    {
+      "id": "7",
+      "name": "Void Reactor",
+      "resultSlime": "Void Slime",
+      "resultOdds": "1 in 20000",
+      "zone": "Dark Realm",
+      "unlockRequirement": "Late game",
+      "ingredients": ["Shadow Slime", "Dark Core"],
+      "rarity": "Mythic",
+      "stats": "Extreme damage",
+      "locationHint": "Secret zone",
+      "notes": "Very rare crafting."
+    },
+    {
+      "id": "8",
+      "name": "Divine Fusion",
+      "resultSlime": "Divine Slime",
+      "resultOdds": "1 in 100000",
+      "zone": "Heaven",
+      "unlockRequirement": "Level 7",
+      "ingredients": ["Shadow Slime", "Golden Slime"],
+      "rarity": "Divine",
+      "stats": "Max stats",
+      "locationHint": "Heaven altar",
+      "notes": "Ultimate recipe."
+    }
+  ]
+}
