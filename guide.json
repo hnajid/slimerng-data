@@ -1,0 +1,48 @@
+{
+  "guide": [
+    {
+      "id": "1",
+      "title": "Beginner Tips",
+      "icon": "lightbulb.fill",
+      "tips": [
+        "Focus on early slimes first and upgrade them.",
+        "Do not waste boosts on low odds slimes.",
+        "Keep rolling consistently to increase chances.",
+        "Use crafting early to speed up progression."
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Luck Strategy",
+      "icon": "sparkles",
+      "tips": [
+        "Always stack multiple boosts before rolling.",
+        "Use boosts only during long roll sessions.",
+        "Save boosts for high rarity targets.",
+        "Play during events to maximize luck bonuses."
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Progress Faster",
+      "icon": "bolt.fill",
+      "tips": [
+        "Upgrade roll speed as soon as possible.",
+        "Focus on mid-tier slimes before chasing rare ones.",
+        "Use crafting to skip early grind.",
+        "Farm high-value slimes for faster currency."
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Advanced Strategy",
+      "icon": "brain.head.profile",
+      "tips": [
+        "Track your rolls and compare with probability.",
+        "Target slimes with best value-to-odds ratio.",
+        "Use calculator before long sessions.",
+        "Avoid chasing ultra rare slimes too early."
+      ]
+    }
+  ]
+}
